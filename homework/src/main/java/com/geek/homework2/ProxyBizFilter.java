@@ -1,6 +1,7 @@
-package com.geek.filter;
+package com.geek.homework2;
 
-import com.geek.filter.service.HttpRequestFilter;
+
+import com.geek.homework2.io.filter.HttpRequestFilter;
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.handler.codec.http.DefaultHttpHeaders;
 import io.netty.handler.codec.http.FullHttpRequest;
